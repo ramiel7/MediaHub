@@ -23,7 +23,7 @@ MediaHub offers a user-friendly interface and a wide range of features to enhanc
 
 
 # Installation
-MediaHub is a portable application, and you can download the latest release from the Releases section of this repository. Simply extract the downloaded RAR file and run the MediaHub.exe executable.
+MediaHub is a portable application, and you can download the latest release from the [Releases](https://github.com/ramiel7/MediaHub/releases) section of this repository. Simply extract the downloaded RAR file and run the MediaHub.exe executable.
 
 Alternatively, you can download the installation package (MediaHub.exe) and install MediaHub on your system.
 
