@@ -32,10 +32,10 @@ Portable and installable versions available
 
 # Support
 If you find MediaHub useful and would like to support its development, you can buy me a coffee or make a donation using one of the following methods:
-USDT (TRC20): [TLExsMaH9ke3Cg2vXZKZiDpRX7PRj7e43g]
-BTC: [bc1qjsscl97h5a39xgw0qhgs2mmnm7mkzshc0l7qmy]
-BCH: [qrs08a6hdlrnm374w0hgnn25ey50nk5ghs3q8klqsg]
-ETH: [0xc11d0f73EB1df7eae740CcdE613101433a3F70e7]
+. USDT (TRC20): [TLExsMaH9ke3Cg2vXZKZiDpRX7PRj7e43g]
+. BTC: [bc1qjsscl97h5a39xgw0qhgs2mmnm7mkzshc0l7qmy]
+. BCH: [qrs08a6hdlrnm374w0hgnn25ey50nk5ghs3q8klqsg]
+. ETH: [0xc11d0f73EB1df7eae740CcdE613101433a3F70e7]
 
 Your support is greatly appreciated and will help ensure the continued development and improvement of MediaHub.
 
