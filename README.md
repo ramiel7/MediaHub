@@ -1,5 +1,7 @@
 # MediaHub
-MediaHub is a free video downloader application that allows you to download videos and audio from YouTube, as well as over +900 other websites. Built with Python and the powerful yt-dlp library, MediaHub offers a user-friendly interface and a wide range of features to enhance your downloading experience.
+MediaHub is a FREE video downloader application that allows you to download videos and audio from YouTube, as well as over +900 other websites. <br>
+Built with Python and the powerful yt-dlp library. <br>
+MediaHub offers a user-friendly interface and a wide range of features to enhance your downloading experience.
 
 
 # Features
