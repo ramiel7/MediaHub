@@ -27,7 +27,7 @@ Alternatively, you can download the installation package (MediaHub.exe) and inst
 # Release 1.0.0
 This is the initial release of MediaHub, featuring the following:
 
-Core functionality: Download videos and audio from YouTube and over 900 other websites
+Core functionality: Download videos and audio from YouTube and over 900 other websites /n
 Portable and installable versions available
 
 # Support
